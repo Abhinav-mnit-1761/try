@@ -23,7 +23,7 @@ int main() {
         // ---- Range validation ----
         if (num < 10 || num > 100) {
             cout << "Number out of range. Enter between 10 and 100.\n";
-            continue;yghyiibyuiobytib
+            continue;
         }
 
         // ---- Duplicate check ----
